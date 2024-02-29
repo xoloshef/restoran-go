@@ -1,9 +1,10 @@
 package controller
 
 import (
-	"Restoran-go/app/model"
 	"encoding/json"
 	"net/http"
+
+	"Restoran-go/app/model"
 
 	"github.com/julienschmidt/httprouter"
 )

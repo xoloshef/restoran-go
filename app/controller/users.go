@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"Restoran-go/app/model"
+	"restoran-go/app/model"
 
 	"github.com/julienschmidt/httprouter"
 )

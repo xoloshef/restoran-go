@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Restoran-go/app/controller"
+	"restoran-go/app/controller"
 
 	"log"
 	"net/http"

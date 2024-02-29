@@ -8,7 +8,7 @@ import (
 )
 
 func StartPage(rw http.ResponseWriter, r *http.Request, p httprouter.Params) {
-	text := "Приветствую тебя на стартовой странице этого сайта!"
-	//возвращаем простой текст
+	text := "Hello world!"
+
 	fmt.Fprint(rw, text)
 }
